@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Employee Attendance</string>
+    <string name="addwork">+ Add work</string>
+    <string name="addbreak">+ Add break</string>
+    <string name="addtravel">+ Add travel</string>
+    <string name="settime">Set Time</string>
+    <string name="startofwork">Start time</string>
+    <string name="finishofwork">Finish time</string>
+    <string name="email">Email</string>
+    <string name="String_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="workinghours">Working Hours</string>
+    <string name="leaves">Leaves</string>
+    <string name="fromdate">From Date</string>
+    <string name="todate">To Date</string>
+    <string name="setdate">Set Date</string>
+    <string name="reason">Reason for leave</string>
+    <string name="summaryreport">Summary Report</string>
+    <string name="employeelist">Employee Report</string>
+    <string name="generatedreport">Generated Reports</string>
+    <string name="work">Work</string>
+    <string name="breatime">Break</string>
+    <string name="travel">Travel</string>
+    <string name="till">Till:</string>
+    <string name="from">From:</string>
+</resources>
